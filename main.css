@@ -1,20 +1,20 @@
 @font-face {
     font-family: pelak ;
-    src: url(../fonts/TTF/PelakFA-Medium.ttf);
+    src: url(PelakFA-Medium.ttf);
 }
 
 @font-face {
     font-family: pelak-bold;
-    src: url(../fonts/TTF/PelakFA-Bold.ttf);
+    src: url(PelakFA-Bold.ttf);
 }
 @font-face {
     font-family: pelak-black;
-    src: url(../fonts/TTF/PelakFA-ExtraBold.ttf);
+    src: url(PelakFA-ExtraBold.ttf);
 }
 
 @font-face {
     font-family: saad;
-    src: url(../fonts/Saad.ttf);
+    src: url(Saad.ttf);
 }
 
 body{
